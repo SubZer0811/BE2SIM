@@ -7,7 +7,7 @@ python3 be2sim.py
 ```
 
 DISCLAIMER: Make sure to use paranthesis wherever possible. <br>e.g. !A.B.C should be writtern as (((!(A)).B).C). The input variables can be any alphabet. The final output is 'out'.The following gates can be used: 
-1.+ (OR)
-2. . (AND)
-3. ! (NOT)
+1. '+' (OR)
+2. '.' (AND)
+3. '!' (NOT)
 
